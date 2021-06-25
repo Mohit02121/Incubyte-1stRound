@@ -5,3 +5,4 @@ This programs need a input a file with name data.txt. Which store the data in fo
 |H|Customer_Name|Customer_Id|Open_Date|Last_Consulted_Date|Vaccination_Id|Dr_Name|State|Country|DOB|Is_Active
 
 Program reads input from text file and stores into the database sepately by country name.
+Database will be created in the same location.
